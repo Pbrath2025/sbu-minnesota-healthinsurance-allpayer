@@ -1,0 +1,9 @@
+.env
+.venv
+
+## ignore all files in data/raw
+data/raw/*.xlsx
+
+## keep all files in data/processed except services2020 and services2021
+data/processed/services2020.csv
+data/processed/services2021.csv
