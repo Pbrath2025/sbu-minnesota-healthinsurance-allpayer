@@ -3,3 +3,5 @@ flask
 openpyxl
 polars
 fastexcel
+scipy
+seaborn
